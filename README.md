@@ -22,7 +22,6 @@ Whether you're exploring, testing, or just having fun — these scripts are opti
 
 - 🎯 **ESP** – Box outline around players
 - 💨 **Speed Hack** – Boost your movement speed
-- 🔁 **Auto Farm** – Automate your grinding (if present)
 - 🕊️ **Infinite Jump** – Jump forever without restrictions
 - ⚙️ And more coming soon!
 
