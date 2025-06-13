@@ -1,4 +1,4 @@
-<h1 align="center">🎯 LunarScripts</h1>
+<h1 align="center">🎯 Lunar Scripts</h1>
 <p align="center">
   🚀 Collection of powerful Lua scripts designed to run smoothly on <a href="https://github.com/ItsMeD4N/Roblox-Lua-Executor.git">Roblox Lua Executor</a> 🎮
 </p>
